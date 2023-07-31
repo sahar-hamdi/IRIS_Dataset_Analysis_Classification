@@ -23,9 +23,9 @@
 
 **## Dependencies:**
 
-    **### Python (version X.X.X)**
-    **### Jupyter Notebook (to run the .ipynb notebook)**
-    **### Libraries:**
+    * Python (version X.X.X)
+    * Jupyter Notebook (to run the .ipynb notebook)
+    * Libraries:
          * Pandas
          * NumPy
          * Matplotlib
@@ -36,14 +36,14 @@
 
 **## Usage:**
 
-    **### Open the Jupyter Notebook IRIS Dataset Analysis and Classification.ipynb to access the code and analysis. The notebook contains step-by-step explanations and code to perform the following tasks:**
+    * Open the Jupyter Notebook IRIS Dataset Analysis and Classification.ipynb to access the code and analysis. The notebook contains step-by-step explanations and code to perform the following tasks:
 
             * Data loading and exploration
             * Data visualization and analysis
             * Data preprocessing and feature engineering
             * Model training and evaluation using KNN, Logistic Regression, and Decision Trees
             * Model comparison and analysis of results
-    **###Simply run the notebook cells to follow along with the analysis and classification process.**
+    * Simply run the notebook cells to follow along with the analysis and classification process.
 
 
 **## Methods:**
